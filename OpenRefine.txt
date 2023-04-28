@@ -1,0 +1,102 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "City",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Astoria"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASTORIA"
+      }
+    ],
+    "description": "Mass edit cells in column City"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "City",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "East Elmhurst"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EAST ELMHURST"
+      }
+    ],
+    "description": "Mass edit cells in column City"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "City",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Howard Beach"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HOWARD BEACH"
+      }
+    ],
+    "description": "Mass edit cells in column City"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "City",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Long Island City"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LONG ISLAND CITY"
+      }
+    ],
+    "description": "Mass edit cells in column City"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "City",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Woodside"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WOODSIDE"
+      }
+    ],
+    "description": "Mass edit cells in column City"
+  }
+]
